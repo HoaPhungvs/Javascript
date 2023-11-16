@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "hii",
+      "des": "xdfjui",
+      "img": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "name": "json-server",
+      "des": "json-server",
+      "img": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "gà",
+      "des": "sẻtyuio",
+      "img": "https://picsum.photos/200/300",
+      "id": 4
+    }
+  ]
+}
